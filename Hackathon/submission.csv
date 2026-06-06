@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0095619,1,0.9900,NLP Engineer with 15.6 yrs; 17 skills; response rate 0.90.
+CAND_0061257,2,0.9566,Staff Machine Learning Engineer with 8.0 yrs; 16 skills; response rate 0.87.
+CAND_0071974,3,0.9566,Senior AI Engineer with 7.8 yrs; 19 skills; response rate 0.76.
+CAND_0039754,4,0.9407,Senior Applied Scientist with 16.2 yrs; 20 skills; response rate 0.81.
+CAND_0061655,5,0.9400,Machine Learning Engineer with 4.6 yrs; 17 skills; response rate 0.88.
+CAND_0068351,6,0.9355,Lead AI Engineer with 6.4 yrs; 19 skills; response rate 0.86.
+CAND_0079387,7,0.9347,AI Engineer with 6.9 yrs; 20 skills; response rate 0.81.
+CAND_0080766,8,0.9339,Staff Machine Learning Engineer with 8.8 yrs; 21 skills; response rate 0.66.
+CAND_0076163,9,0.9257,NLP Engineer with 6.9 yrs; 17 skills; response rate 0.84.
+CAND_0018499,10,0.9213,Senior Machine Learning Engineer with 7.2 yrs; 17 skills; response rate 0.61.
+CAND_0042100,11,0.9207,Machine Learning Engineer with 7.3 yrs; 13 skills; response rate 0.87.
+CAND_0036184,12,0.9200,Recommendation Systems Engineer with 6.0 yrs; 19 skills; response rate 0.90.
+CAND_0005260,13,0.9161,Senior NLP Engineer with 5.2 yrs; 18 skills; response rate 0.86.
+CAND_0054100,14,0.9155,Junior ML Engineer with 6.0 yrs; 18 skills; response rate 0.79.
+CAND_0081846,15,0.9140,Lead AI Engineer with 6.7 yrs; 18 skills; response rate 0.73.
+CAND_0052682,16,0.9104,NLP Engineer with 6.6 yrs; 15 skills; response rate 0.88.
+CAND_0005538,17,0.9089,Senior AI Engineer with 5.9 yrs; 19 skills; response rate 0.81.
+CAND_0061265,18,0.9048,Recommendation Systems Engineer with 6.6 yrs; 16 skills; response rate 0.94.
+CAND_0074735,19,0.9002,Applied ML Engineer with 5.5 yrs; 20 skills; response rate 0.77.
+CAND_0002025,20,0.8989,Senior AI Engineer with 5.9 yrs; 20 skills; response rate 0.80.
+CAND_0054546,21,0.8986,AI Research Engineer with 4.9 yrs; 16 skills; response rate 0.92.
+CAND_0009691,22,0.8975,Applied ML Engineer with 6.2 yrs; 19 skills; response rate 0.64.
+CAND_0078002,23,0.8948,Machine Learning Engineer with 6.3 yrs; 16 skills; response rate 0.86.
+CAND_0046064,24,0.8910,Senior NLP Engineer with 8.9 yrs; 16 skills; response rate 0.78.
+CAND_0084819,25,0.8907,Search Engineer with 4.5 yrs; 17 skills; response rate 0.74.
+CAND_0057736,26,0.8900,Computer Vision Engineer with 6.2 yrs; 13 skills; response rate 0.92.
+CAND_0073883,27,0.8897,AI Specialist with 5.3 yrs; 18 skills; response rate 0.92.
+CAND_0080534,28,0.8892,ML Engineer with 3.8 yrs; 17 skills; response rate 0.91.
+CAND_0077956,29,0.8883,Computer Vision Engineer with 6.4 yrs; 18 skills; response rate 0.88.
+CAND_0077420,30,0.8881,Civil Engineer with 14.8 yrs; 22 skills; response rate 0.78.
+CAND_0083852,31,0.8876,Data Scientist with 6.0 yrs; 19 skills; response rate 0.85.
+CAND_0078042,32,0.8839,Applied ML Engineer with 4.7 yrs; 14 skills; response rate 0.91.
+CAND_0061339,33,0.8826,Search Engineer with 4.2 yrs; 14 skills; response rate 0.90.
+CAND_0016163,34,0.8819,Applied ML Engineer with 6.7 yrs; 17 skills; response rate 0.72.
+CAND_0024990,35,0.8816,Junior ML Engineer with 5.2 yrs; 20 skills; response rate 0.83.
+CAND_0010149,36,0.8799,ML Engineer with 6.9 yrs; 15 skills; response rate 0.82.
+CAND_0075481,37,0.8795,AI Research Engineer with 3.9 yrs; 13 skills; response rate 0.88.
+CAND_0020708,38,0.8790,Search Engineer with 4.2 yrs; 19 skills; response rate 0.84.
+CAND_0044213,39,0.8776,AI Specialist with 3.7 yrs; 16 skills; response rate 0.89.
+CAND_0098846,40,0.8755,AI Engineer with 7.6 yrs; 18 skills; response rate 0.62.
+CAND_0000031,41,0.8727,Recommendation Systems Engineer with 6.0 yrs; 17 skills; response rate 0.91.
+CAND_0030784,42,0.8723,Data Scientist with 4.4 yrs; 14 skills; response rate 0.90.
+CAND_0030031,43,0.8718,AI Engineer with 5.7 yrs; 16 skills; response rate 0.94.
+CAND_0086154,44,0.8718,Data Scientist with 6.8 yrs; 13 skills; response rate 0.90.
+CAND_0065786,45,0.8716,AI Specialist with 4.9 yrs; 13 skills; response rate 0.89.
+CAND_0072688,46,0.8709,Data Scientist with 6.9 yrs; 16 skills; response rate 0.87.
+CAND_0074942,47,0.8708,Project Manager with 14.6 yrs; 21 skills; response rate 0.77.
+CAND_0034164,48,0.8705,Data Scientist with 3.6 yrs; 18 skills; response rate 0.84.
+CAND_0010603,49,0.8700,ML Engineer with 5.3 yrs; 15 skills; response rate 0.94.
+CAND_0002344,50,0.8691,Senior Software Engineer (ML) with 4.7 yrs; 18 skills; response rate 0.83.
+CAND_0090300,51,0.8691,AI Research Engineer with 5.3 yrs; 14 skills; response rate 0.94.
+CAND_0055992,52,0.8659,AI Engineer with 16.9 yrs; 16 skills; response rate 0.72.
+CAND_0026942,53,0.8657,Junior ML Engineer with 6.0 yrs; 18 skills; response rate 0.84.
+CAND_0036437,54,0.8651,Search Engineer with 4.8 yrs; 12 skills; response rate 0.87.
+CAND_0099806,55,0.8644,AI Engineer with 4.6 yrs; 18 skills; response rate 0.76.
+CAND_0078579,56,0.8641,Data Scientist with 4.7 yrs; 15 skills; response rate 0.82.
+CAND_0016659,57,0.8636,ML Engineer with 4.4 yrs; 15 skills; response rate 0.89.
+CAND_0028527,58,0.8625,AI Specialist with 5.4 yrs; 17 skills; response rate 0.90.
+CAND_0099965,59,0.8619,Junior ML Engineer with 4.6 yrs; 15 skills; response rate 0.88.
+CAND_0027691,60,0.8609,NLP Engineer with 6.5 yrs; 17 skills; response rate 0.68.
+CAND_0039383,61,0.8597,Applied ML Engineer with 7.1 yrs; 16 skills; response rate 0.61.
+CAND_0033445,62,0.8595,ML Engineer with 6.8 yrs; 16 skills; response rate 0.94.
+CAND_0077337,63,0.8592,Staff Machine Learning Engineer with 7.0 yrs; 20 skills; response rate 0.95.
+CAND_0049540,64,0.8587,ML Engineer with 6.8 yrs; 13 skills; response rate 0.86.
+CAND_0040887,65,0.8585,Machine Learning Engineer with 4.7 yrs; 12 skills; response rate 0.84.
+CAND_0008239,66,0.8580,AI Engineer with 4.0 yrs; 18 skills; response rate 0.73.
+CAND_0030468,67,0.8579,Senior Applied Scientist with 5.4 yrs; 14 skills; response rate 0.78.
+CAND_0098454,68,0.8576,AI Specialist with 6.6 yrs; 14 skills; response rate 0.87.
+CAND_0072600,69,0.8569,Operations Manager with 12.7 yrs; 22 skills; response rate 0.72.
+CAND_0020991,70,0.8565,Junior ML Engineer with 4.9 yrs; 15 skills; response rate 0.88.
+CAND_0033179,71,0.8563,AI Research Engineer with 6.9 yrs; 16 skills; response rate 0.84.
+CAND_0064256,72,0.8563,Junior ML Engineer with 6.4 yrs; 14 skills; response rate 0.86.
+CAND_0093193,73,0.8561,Senior Machine Learning Engineer with 7.9 yrs; 19 skills; response rate 0.61.
+CAND_0028793,74,0.8556,Search Engineer with 7.2 yrs; 15 skills; response rate 0.57.
+CAND_0059017,75,0.8556,AI Research Engineer with 6.8 yrs; 14 skills; response rate 0.75.
+CAND_0043829,76,0.8546,AI Research Engineer with 4.8 yrs; 15 skills; response rate 0.78.
+CAND_0050553,77,0.8541,ML Engineer with 3.6 yrs; 15 skills; response rate 0.95.
+CAND_0007460,78,0.8529,AI Engineer with 4.7 yrs; 18 skills; response rate 0.48.
+CAND_0086893,79,0.8529,ML Engineer with 3.9 yrs; 13 skills; response rate 0.90.
+CAND_0073314,80,0.8526,Senior Software Engineer (ML) with 5.2 yrs; 14 skills; response rate 0.84.
+CAND_0099331,81,0.8521,Content Writer with 14.8 yrs; 21 skills; response rate 0.66.
+CAND_0059504,82,0.8513,Junior ML Engineer with 3.3 yrs; 20 skills; response rate 0.83.
+CAND_0084372,83,0.8507,Graphic Designer with 14.9 yrs; 19 skills; response rate 0.71.
+CAND_0024878,84,0.8502,AI Specialist with 5.7 yrs; 15 skills; response rate 0.84.
+CAND_0044855,85,0.8502,Senior Data Scientist with 6.6 yrs; 17 skills; response rate 0.57.
+CAND_0043637,86,0.8495,Junior ML Engineer with 5.5 yrs; 14 skills; response rate 0.92.
+CAND_0046132,87,0.8493,AI Research Engineer with 4.3 yrs; 14 skills; response rate 0.94.
+CAND_0080465,88,0.8487,ML Engineer with 4.2 yrs; 15 skills; response rate 0.83.
+CAND_0055960,89,0.8485,AI Specialist with 4.9 yrs; 13 skills; response rate 0.89.
+CAND_0012840,90,0.8481,Junior ML Engineer with 3.7 yrs; 14 skills; response rate 0.90.
+CAND_0070525,91,0.8477,Senior Software Engineer (ML) with 5.4 yrs; 12 skills; response rate 0.93.
+CAND_0001610,92,0.8476,Machine Learning Engineer with 3.0 yrs; 18 skills; response rate 0.57.
+CAND_0051615,93,0.8474,Search Engineer with 4.6 yrs; 15 skills; response rate 0.88.
+CAND_0003791,94,0.8470,ML Engineer with 6.6 yrs; 17 skills; response rate 0.66.
+CAND_0065139,95,0.8466,AI Research Engineer with 5.2 yrs; 18 skills; response rate 0.82.
+CAND_0083790,96,0.8450,Data Scientist with 3.5 yrs; 17 skills; response rate 0.83.
+CAND_0088025,97,0.8450,Staff Machine Learning Engineer with 8.6 yrs; 19 skills; response rate 0.83.
+CAND_0092706,98,0.8449,AI Research Engineer with 5.8 yrs; 13 skills; response rate 0.78.
+CAND_0063736,99,0.8446,Data Scientist with 3.7 yrs; 17 skills; response rate 0.83.
+CAND_0049978,100,0.8443,Senior Software Engineer (ML) with 6.6 yrs; 16 skills; response rate 0.71.
