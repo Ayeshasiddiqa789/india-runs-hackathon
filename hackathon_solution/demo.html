@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Top 20 Candidates — Demo</title>
+  <style>
+    body{font-family:Arial;margin:20px}
+    table{border-collapse:collapse;width:100%}
+    th,td{border:1px solid #ddd;padding:8px}
+    th{background:#f4f6f8}
+  </style>
+  <script>
+    async function load(){
+      const r = await fetch('..\top20.json');
+        const r = await fetch('../top20.json');
+      const data = await r.json();
+      const tbody = document.getElementById('tbody');
+      data.forEach(d=>{
+        const tr = document.createElement('tr');
+        tr.innerHTML = `<td>${d.rank}</td><td>${d.candidate_id}</td><td>${d.score}</td>`;
+        tbody.appendChild(tr);
+      })
+    }
+    window.onload = load;
+  </script>
+</head>
+<body>
+  <h1>Top 20 Candidates — Demo</h1>
+  <table>
+    <thead><tr><th>Rank</th><th>Candidate ID</th><th>Score</th></tr></thead>
+    <tbody id="tbody"></tbody>
+  </table>
+</body>
+</html>
